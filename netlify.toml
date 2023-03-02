@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "/index.php"
+to = "/di/Yummy/boot.php"
 status = 200
